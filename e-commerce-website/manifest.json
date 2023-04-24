@@ -1,0 +1,11 @@
+{
+    "name": "Северяночка - онлайн магазин",
+    "short_name": "Северяночка",
+    "description": "Онлайн-магазин 'Северяночка' - широкий ассортимент товаров для дома, сада и отдыха.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#1e88e5"
+}
